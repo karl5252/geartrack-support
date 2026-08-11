@@ -1,0 +1,112 @@
+GearTrack Proprietary License
+Version 1.0
+
+Copyright (c) 2026 Karol Michalik. All rights reserved.
+
+IMPORTANT: By installing, copying, accessing, or using GearTrack (the "Software"),
+you agree to the terms of this License.
+
+1. LICENSE GRANT
+
+Subject to payment of the applicable purchase price, the licensor grants the
+purchaser a non-exclusive, non-transferable, perpetual license to install and
+use the purchased version of the Software for the purchaser's own internal
+purposes.
+
+The purchaser may:
+
+- install and run the Software on systems controlled by the purchaser;
+- make reasonable backup copies of the Software;
+- modify the Software for the purchaser's own internal use; and
+- use the Software in commercial or non-commercial internal operations.
+
+2. RESTRICTIONS
+
+Except where applicable law expressly permits otherwise, the purchaser may not:
+
+- sell, resell, sublicense, rent, lease, publish, distribute, share, or otherwise
+  provide the Software, its source code, or modified versions of it to any third
+  party;
+- make the Software publicly available as a hosted service, SaaS offering, or
+  other service primarily intended for use by third parties;
+- remove or obscure copyright, license, or other proprietary notices;
+- represent the Software or a modified version of it as an original product of
+  the purchaser or another party; or
+- use the Software or substantial portions of it to create and distribute a
+  competing product derived from the Software.
+
+3. INTERNAL MODIFICATIONS
+
+The purchaser may modify the Software solely for the purchaser's own internal
+use. Any such modification remains subject to this License and does not grant
+any right to distribute, sublicense, sell, or publish the original or modified
+Software.
+
+The licensor is not required to support modified versions of the Software.
+
+4. THIRD-PARTY SOFTWARE
+
+The Software may include or depend on third-party software components. Those
+components remain subject to their respective licenses and notices. Nothing in
+this License limits rights granted under a third-party license or imposes these
+proprietary terms on third-party software where its license provides otherwise.
+
+5. OWNERSHIP
+
+The Software is licensed, not sold. The purchaser receives only the rights
+expressly granted by this License. All other rights, title, and interest in the
+Software remain with the licensor.
+
+6. UPDATES AND SUPPORT
+
+Purchase of a version of the Software does not guarantee future updates,
+upgrades, maintenance, hosting, or technical support unless separately stated
+by the licensor.
+
+A later version of the Software may be offered under different commercial terms.
+
+7. TERMINATION
+
+This License terminates automatically if the purchaser materially breaches its
+terms. Upon termination, the purchaser must stop using and distributing any
+copies of the Software in its possession or control, except where retention is
+required by applicable law.
+
+8. DISCLAIMER OF WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+THE PURCHASER IS RESPONSIBLE FOR BACKUPS, CONFIGURATION, SECURITY, AND
+DETERMINING WHETHER THE SOFTWARE IS SUITABLE FOR THE PURCHASER'S INTENDED USE.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR
+PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE, BUSINESS, OR BUSINESS
+OPPORTUNITY, ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS LICENSE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR'S TOTAL
+AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THE SOFTWARE SHALL NOT EXCEED
+THE AMOUNT PAID BY THE PURCHASER FOR THE SOFTWARE.
+
+10. APPLICABLE LAW
+
+Any mandatory rights or remedies provided by applicable consumer or other law
+remain unaffected. Where the parties have agreed separately on governing law or
+jurisdiction, that agreement controls.
+
+11. CONTACT
+
+For permissions not granted by this License, including redistribution,
+reselling, hosted-service rights, OEM use, or other commercial licensing,
+contact the licensor.
+
+---
+
+Third-party components are not relicensed under this proprietary License. Their
+licenses and notices should be provided separately with the distribution where
+required.
