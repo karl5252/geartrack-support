@@ -1,3 +1,19 @@
+## Try it
+
+**[Live demo](https://geartrack-demo.onrender.com)** — no installation required.
+
+| Username | Password | Role |
+| --- | --- | --- |
+| `admin_demo` | `demo1234` | Admin |
+| `manager1` | `demo1234` | Manager |
+| `user1` | `demo1234` | User |
+
+Log in as different users to see how visibility changes with each role.
+The demo resets periodically, so feel free to click around.
+
+> The demo runs on a free tier and sleeps after inactivity — the first
+> request may take up to a minute to wake it up.
+
 ## Support
 
 Bug reports and feature requests can be submitted through the
